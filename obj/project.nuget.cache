@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GSmr7JTZ/JF/VbrKunf5xBgxwhuvJkhGMVbaFb3oetW70OTrU2Zjx4Z/8oCW6b6pQ13VALl5JGZ8fjiYvIIIw==",
+  "success": true,
+  "projectFilePath": "F:\\Git\\RabbitSteelModManager\\RabbitSteelModManager\\rabbitsteel.modmanager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\reloaded.hooks.definitions\\1.11.0\\reloaded.hooks.definitions.1.11.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\reloaded.mod.interfaces\\2.4.0\\reloaded.mod.interfaces.2.4.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\reloaded.sharedlib.hooks\\1.9.0\\reloaded.sharedlib.hooks.1.9.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

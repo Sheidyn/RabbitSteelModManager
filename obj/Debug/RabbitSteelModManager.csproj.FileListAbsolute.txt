@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\Preview.png
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\ModConfig.json
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\RabbitSteelModManager.deps.json
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\RabbitSteelModManager.dll
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\RabbitSteelModManager.pdb
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.csproj.AssemblyReference.cache
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.AssemblyInfoInputs.cache
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.AssemblyInfo.cs
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.csproj.CoreCompileInputs.cache
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.csproj.CopyComplete
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.dll
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\refint\RabbitSteelModManager.dll
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\RabbitSteelModManager.pdb
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\ref\RabbitSteelModManager.dll

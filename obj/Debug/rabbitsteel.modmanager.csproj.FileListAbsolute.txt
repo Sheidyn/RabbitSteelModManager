@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\Preview.png
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\ModConfig.json
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\rabbitsteel.modmanager.deps.json
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\rabbitsteel.modmanager.dll
+C:\Users\Pc\Desktop\Reloaded-II\Mods\RabbitSteelModManager\rabbitsteel.modmanager.pdb
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.csproj.AssemblyReference.cache
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.AssemblyInfoInputs.cache
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.AssemblyInfo.cs
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.csproj.CoreCompileInputs.cache
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.dll
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\refint\rabbitsteel.modmanager.dll
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitsteel.modmanager.pdb
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\ref\rabbitsteel.modmanager.dll
+F:\Git\RabbitSteelModManager\RabbitSteelModManager\obj\Debug\rabbitst.F1796453.Up2Date

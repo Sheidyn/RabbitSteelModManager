@@ -1,0 +1,23 @@
+{
+  "ModId": "rabbitsteel.modmanager",
+  "ModName": "Rabbit and Steel Manager",
+  "ModAuthor": "Seyren",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Simple file modder for Rabbit and Steel Mods",
+  "ModDll": "rabbitsteel.modmanager.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/rabbitsteel.modmanager.dll",
+  "ModR2RManagedDll64": "x64/rabbitsteel.modmanager.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "rabbitsteel.modmanager.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "rabbitsteel.exe"
+  ],
+  "ProjectUrl": ""
+}
